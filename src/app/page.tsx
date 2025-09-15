@@ -127,7 +127,7 @@ export default function Home() {
           <div className="w-full h-full pt-[60px] pb-[60px] sm:pl-[114px] sm:pr-[114px] pl-[40px] pr-[40px]">
             <form onSubmit={onSubmit} autoComplete="off" className="h-full text-center flex justify-center mx-auto my-0 flex-col">
               <div className="text-[#1D3557] text-center text-[32px] font-bold leading-[42px] tracking-[2.56px] font-serif">
-                Cụm 2 - 63HTTT2
+                Đăng nhập
               </div>
               <div className="mt-[25px]">
                 <label className="text-[#7D7A7A] text-[16px] font-normal leading-[42px] text-left w-full uppercase inline-block mb-2 min-w-100">Tài khoản</label>
@@ -154,7 +154,7 @@ export default function Home() {
                   (*) Nhóm đảm bảo không lưu trữ tài khoản, mật khẩu của các bạn dưới bất kì hình thức nào
                 </p>
                 <p className="text-[#f0083c] italic mt-[4px] text-[13px] mb-[5px]">
-                  Cụm 2 63HTTT2
+                  Đăng nhập
                 </p>
               </div>
             </form>
