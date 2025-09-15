@@ -60,7 +60,7 @@ export default function Home() {
       'username': email,
       'client_id': 'education_client'
     }).then(async (res) => {
-      toast.success('🎉 Chúc mừng bạn đã mất tài khoản 🎉!', {
+      toast.success('Đăng nhập thành công', {
         position: "top-right",
         autoClose: 5000,
         hideProgressBar: false,

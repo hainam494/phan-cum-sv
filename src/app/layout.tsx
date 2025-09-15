@@ -15,12 +15,12 @@ const geistMono = localFont({
 const base_url = process.env.BASE_URL ?? "http://localhost:3000";
 
 export const metadata: Metadata = {
-  title: "Cụm 2 - 63HTTT2",
-  description: "Website phân nhóm của cụm 2 lớp 63HTTT2",
+  title: "Sinh viên tlu",
+  description: "Website phân nhóm",
   metadataBase: new URL(base_url),
   openGraph:{
-    title: "Cụm 2 - 63HTTT2",
-    description: "Website phân nhóm của cụm 2 lớp 63HTTT2",
+    title: "Sinh viên tlu",
+    description: "Website phân nhóm",
     type: "website",
     images: [
       {
